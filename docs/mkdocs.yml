@@ -378,4 +378,5 @@ nav:
       - 'Data Collection': 'contributing/data-collection.md'
       - 'Advocating': 'contributing/advocating.md'
       - 'Maintainers': 'contributing/maintainers.md'
+      - 'Maintainer''s guideline': 'contributing/maintainers-guidelines.md'
   - 'FAQ': 'getting-started/faq.md'
